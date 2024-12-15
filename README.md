@@ -16,7 +16,7 @@ This project demonstrates the creation of a **4x4x4 LED Cube** controlled by an 
 
 ## Circuit Diagram
 
-![4x4x4 LED Cube Circuit Diagram](link_to_your_image)
+![4x4x4 LED Cube Circuit Diagram](Output-Picture.jpg)
 
 ### Pin Configuration
 
